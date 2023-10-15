@@ -1,2 +1,2 @@
 # diff-svc
-Official Repository for DIFF-SVC used in COI-NEXT and projects held by Creators Team Inc.
+Official Repository for DIFF-SVC used in the projects related to COI-NEXT in Keio University
